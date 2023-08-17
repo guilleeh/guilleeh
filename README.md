@@ -1,5 +1,5 @@
 
-# 🚀 About Me :
+# 🚀 About Me
 Hi, My name is Guillermo and I am a Software Engineer with 3+ years of experience in web development, front-end, back-end and Devops.
 My areas of focus are Typescript/Javascript, Python and PHP. I specialize in building all types of web applications using frameworks such as Next.js, Django, Laravel and more.
 
