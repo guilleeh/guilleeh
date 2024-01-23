@@ -1,7 +1,7 @@
 
 # 🚀 About Me
-Hi, My name is Guillermo and I am a Software Engineer with 3+ years of experience in web development, front-end, back-end and Devops.
-My areas of focus are Typescript/Javascript, Python and PHP. I specialize in building all types of web applications using frameworks such as Next.js, Django, Laravel and more.
+Hi, My name is Guillermo and I am a Software Engineer with 4+ years of experience in web development, front-end, back-end and Devops.
+My areas of focus are Typescript and Python. I specialize in building all types of web applications using frameworks such as Next.js, Django, and more.
 
 # 💻 My Expertise
 
@@ -10,10 +10,9 @@ My areas of focus are Typescript/Javascript, Python and PHP. I specialize in bui
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd56)
 ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd56)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)
 
 ### Web Frameworks
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
 
 ### Libraries
